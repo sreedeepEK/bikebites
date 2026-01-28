@@ -10,5 +10,10 @@ The dashboard provides insights into customer demographics, income patterns, and
 #### Key Insights
 - Customers aged **31–54** are the primary bike-purchasing segment.
 - Bike purchasers have a **higher average income** than non-purchasers.
-- **Short-distance commuters (0–1 miles)** show the highest purchase rates.
+- **Short-distance commuters (0–1 miles)** show the highest purchase rates. 
 - Income and commute distance are strong indicators of purchase behavior.
+
+## License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with attribution.
+
