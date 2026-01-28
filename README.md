@@ -1,4 +1,4 @@
-# Sales analysis / dashnoard (Excel) 
+## BikeBites
 
 This project is an interactive dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, and Slicers.  
 The dashboard provides insights into customer demographics, income patterns, and commute behavior to understand factors influencing bike purchases.
@@ -16,5 +16,6 @@ The dashboard provides insights into customer demographics, income patterns, and
 ## License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project with attribution.
+
 
 
